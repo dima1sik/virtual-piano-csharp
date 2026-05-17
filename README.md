@@ -29,6 +29,3 @@ It includes a main piano interface, melody-related functionality, and settings m
 2. Build the solution.
 3. Run the project.
 
-## Status
-
-Finished C# desktop application prepared for GitHub portfolio.
