@@ -1,4 +1,4 @@
-# Virtual Piano Studio
+﻿# Virtual Piano Studio
 
 Virtual Piano Studio is a C# desktop application for playing piano notes and working with simple melodies.
 
@@ -36,10 +36,7 @@ README.md
 2. Build the solution.
 3. Run the project.
 
-## Status
-
-Portfolio / desktop application project.
-
 ## Notes
 
 This project focuses on Windows Forms UI, sound playback, and desktop application structure.
+
