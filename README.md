@@ -40,3 +40,14 @@ README.md
 
 This project focuses on Windows Forms UI, sound playback, and desktop application structure.
 
+## Screenshots
+
+### Main Piano Window
+![Main Piano Window](screenshots/main-piano.png)
+
+### Settings Window
+![Settings Window](screenshots/settings-window.png)
+
+### Melody Window
+![Melody Window](screenshots/melody-window.png)
+
